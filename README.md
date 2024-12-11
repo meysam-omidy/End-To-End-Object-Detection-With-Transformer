@@ -1,3 +1,6 @@
+
+![detr](https://github.com/user-attachments/assets/9e65fa3d-e19c-49c9-bbc1-f7d3df054143)
+
 This repository contains the implementation of the DETR (DEtection TRansformer) model, as described in the paper "End-to-End Object Detection with Transformers" by Nicolas Carion et al. from Facebook AI. ([link to the paper](https://arxiv.org/abs/2005.12872))
 
 DETR is a novel approach to object detection that views it as a direct set prediction problem. The model uses a transformer encoder-decoder architecture to predict a set of bounding boxes and class labels in parallel, without the need for many hand-designed components like non-maximum suppression or anchor generation.
