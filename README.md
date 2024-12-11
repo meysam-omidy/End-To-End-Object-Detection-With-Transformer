@@ -12,6 +12,20 @@ The key features of DETR are:
 
 This implementation was trained and evaluated on the COCO 2017 object detection dataset. COCO is a widely used benchmark for object detection, containing over 118,000 training images and 5,000 validation images, with a total of 80 object categories. ([link to the dataset](https://cocodataset.org/#download)
 
+Files hierarchy after the extraction of dataset, should be like this:
+```
+.detr.py
+.transformer.py
+.coco_train.ipynb
+\annotations
+    .person_keypoints_train2017.json
+    .instances_train2017.json
+\images
+    \train2017
+        .000000000000.jpg
+        .000000000001.jpg
+```
+
 ## Requirements
 
 To run the code, ensure you have the following dependencies installed:
