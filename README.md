@@ -1,4 +1,3 @@
-
 ![2025-03-07 13_12_24-End-to-End Object Detection with Transformers 2020 pdf and 1 more page - Persona](https://github.com/user-attachments/assets/b753fa47-4bac-4928-8238-b0d20a9098f0)
 
 This repository contains the implementation of the DETR (DEtection TRansformer) model, as described in the paper "End-to-End Object Detection with Transformers" by Nicolas Carion et al. from Facebook AI. ([link to the paper](https://arxiv.org/abs/2005.12872))
